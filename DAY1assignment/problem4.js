@@ -1,0 +1,18 @@
+console.log("✍  **** 𝑯𝒆𝒓𝒆 𝒊𝒔 𝒎𝒚 𝑹𝒆𝒑𝒐𝒓𝒕 𝒄𝒂𝒓𝒅 **** ✍");
+var Name,school,grade,sec,roll_no,sub1,sub2,sub3;
+Name="𝑺𝒉𝒂𝒍𝒖 𝑮𝒖𝒑𝒕𝒂";
+school="𝑺𝒂𝒓𝒂𝒔𝒘𝒂𝒕𝒊 𝑮𝒚𝒂𝒏 𝑴𝒂𝒏𝒅𝒊𝒓";
+grade= "B++";
+sec="A";
+roll_no=245;
+sub1_Clang= 75;
+sub2_JAVA=80;
+sub3_JAVASCRIPT=85;
+console.log("Here is my name ",Name,"🙎");
+console.log("Here is my school ",school,"✍ (◔◡◔)");
+console.log("Here is my grade ",grade,"✌");
+console.log("Sction ",sec,"🙌");
+console.log("roll number ",roll_no,"✔");
+console.log("Subject1 marks ✎",sub1_Clang,"✌");
+console.log("Subject2 marks ✎",sub2_JAVA,"♛");
+console.log("Subject3 marks ✎",sub3_JAVASCRIPT,"🙌");
